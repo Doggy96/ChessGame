@@ -28,6 +28,7 @@ namespace ChessExersice.Models
 			}
 
 			Console.WriteLine("_________________________");
+
 		}
 	}
 }
